@@ -13,7 +13,3 @@ exports[`Date utils Should fromNow tomorrow correctly 1`] = `"tomorrow"`;
 exports[`Date utils Should fromNow twoDaysAgo correctly 1`] = `"2 days ago"`;
 
 exports[`Date utils Should fromNow yesterday correctly 1`] = `"yesterday"`;
-
-exports[`Timezone utils Should work correctly with rubbish data (offsetFormattedLong) 1`] = `null`;
-
-exports[`Timezone utils Should work correctly with rubbish data (offsetFormattedShort) 1`] = `null`;

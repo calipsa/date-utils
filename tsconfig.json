@@ -14,8 +14,7 @@
     "noImplicitAny": true,
     "downlevelIteration": true,
     "lib": [
-      "dom",
-      "esnext" // for URLSearchParams
+      "esnext"
     ],
     "outDir": "dist"
   },
