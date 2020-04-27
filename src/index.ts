@@ -1,6 +1,2 @@
-import fromNow from './fromNow'
-
-export {
-  // eslint-disable-next-line import/prefer-default-export
-  fromNow,
-}
+// eslint-disable-next-line import/prefer-default-export
+export { default as fromNow } from './fromNow'
